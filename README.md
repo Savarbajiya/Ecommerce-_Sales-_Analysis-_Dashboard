@@ -1,6 +1,7 @@
 # Ecommerce-_Sales-_Analysis-_Dashboard
 Ecommerce Sales Analysis Dashboard (Excel)
 ![image](https://github.com/user-attachments/assets/7af0a0f8-4153-46bd-ad12-ad18dfa8c485)
+
 Project Overview
 The Ecommerce Sales Analysis Dashboard project involved a detailed examination of sales and profit data within the e-commerce sector, developed using Microsoft Excel. The dashboard delivers actionable insights by analyzing multiple performance metrics, helping businesses optimize sales strategies and improve profitability.
 
